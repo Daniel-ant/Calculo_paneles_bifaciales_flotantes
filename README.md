@@ -1,6 +1,6 @@
 # Calculo_paneles_bifaciales_flotantes
 Herramienta de cálculo energético y económico de paneles solares bifaciales flotantes y comparación con su equivalente en tierra.
-Se recomienda ejecutar en Google Colab con el acceso que ya incorpora el código, ya que ha sido desarrollado para su ejecución sin instalación.
+Se recomienda ejecutar en Google Colab con el acceso (botón) que ya incorpora el código en preview, ya que ha sido desarrollado para su ejecución sin instalación.
 Handle a la memoria completa del TFM que se desarrolló junto al proyecto: http://hdl.handle.net/10366/172186
 ------------------------------------------------------------------------------------------------------
 La energía solar fotovoltaica flotante (FPV) constituye una solución emergente frente a las
